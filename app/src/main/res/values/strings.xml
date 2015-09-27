@@ -8,4 +8,6 @@
     <string name="title_activity_share_text">ShareText</string>
     <string name="chooser_title">Share with</string>
     <string name="msg_field_title">Enter text to share</string>
+    <string name="title_activity_contact_list">ContactListActivity</string>
+
 </resources>
